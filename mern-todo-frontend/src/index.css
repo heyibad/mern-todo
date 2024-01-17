@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+*{
+   
+}
+h1{
+    font-family: 'Fugaz One', sans-serif;
+}
+div{
+    font-family: 'Fugaz One', sans-serif;
+}
